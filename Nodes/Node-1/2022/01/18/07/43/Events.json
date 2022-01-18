@@ -1,0 +1,23 @@
+[
+    {
+        "eventId": "001b8fbc-c49a-47b6-a747-953b54eebce2",
+        "eventType": 10,
+        "originSocialPersonaId": "01c33294-124f-4d68-8619-8e1d1cca7e0a",
+        "originPostHash": "0x66d959e1d33e26e47c2ba108da18015ff2dafc87569184ca051553d52aff97a2",
+        "timestamp": 1642491795870,
+        "fileKeys": [
+            {
+                "timestamp": 1642491795871,
+                "fileName": "0x66d959e1d33e26e47c2ba108da18015ff2dafc87569184ca051553d52aff97a2",
+                "storageContainerId": "f8326dbb-0b25-4115-8063-c3090e33bcfb",
+                "password": "txqcrtxozbzm6647byq396r9rm75r25n"
+            },
+            {
+                "timestamp": 1642491795871,
+                "fileName": "0x66d959e1d33e26e47c2ba108da18015ff2dafc87569184ca051553d52aff97a2",
+                "storageContainerId": "993a9c73-3415-4a69-8fd1-d8bd0b66e5b6",
+                "password": "txqcrtxozbzm6647byq396r9rm75r25n"
+            }
+        ]
+    }
+]
