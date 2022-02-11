@@ -1,0 +1,37 @@
+[
+    {
+        "eventId": "fbddfc34-1242-467e-b95f-11b098f52f5e",
+        "eventType": 16,
+        "originSocialPersonaId": "ed15b68f-c9e0-447a-9ef7-660db229244c",
+        "targetSocialPersonaId": "152c461e-4149-4d5f-9f28-6b37ef55f49c",
+        "timestamp": 1644585780347
+    },
+    {
+        "eventId": "ff57a2a3-f2bf-4a76-8eac-7ba575b43599",
+        "eventType": 15,
+        "originSocialPersonaId": "ed15b68f-c9e0-447a-9ef7-660db229244c",
+        "targetSocialPersonaId": "152c461e-4149-4d5f-9f28-6b37ef55f49c",
+        "timestamp": 1644585782417
+    },
+    {
+        "eventId": "6bce7a34-2e63-4010-9889-f466ebe64860",
+        "eventType": 16,
+        "originSocialPersonaId": "ed15b68f-c9e0-447a-9ef7-660db229244c",
+        "targetSocialPersonaId": "152c461e-4149-4d5f-9f28-6b37ef55f49c",
+        "timestamp": 1644585783287
+    },
+    {
+        "eventId": "d6b10051-67c8-4ed3-a718-af58bfc9130f",
+        "eventType": 15,
+        "originSocialPersonaId": "ed15b68f-c9e0-447a-9ef7-660db229244c",
+        "targetSocialPersonaId": "152c461e-4149-4d5f-9f28-6b37ef55f49c",
+        "timestamp": 1644585783906
+    },
+    {
+        "eventId": "c158a72a-6ab6-49d1-9bca-983a5a1187d5",
+        "eventType": 16,
+        "originSocialPersonaId": "ed15b68f-c9e0-447a-9ef7-660db229244c",
+        "targetSocialPersonaId": "152c461e-4149-4d5f-9f28-6b37ef55f49c",
+        "timestamp": 1644585784410
+    }
+]
